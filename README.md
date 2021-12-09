@@ -136,6 +136,30 @@ Açık Kaynak Kampı Ödevler ve Projeler
 ##### 2.Python kabuğu üzerinde basit fonksiyon geliştirme
 
 + Uçbirim üzerinde python kabuğu açılmalı, python kabuğu üzerinde **fibo (fibınacci dizisi için)** kütüphanesini içeri aktararak, dizinin ilk 10 sayısını döndüren bir fonksiyon yazın.
+Öncelikle gerekli olan **pip** dosyasını indiriyoruz. Ardından `pip` komutu ile **Fibo** modülünü indiriyoruz. 
+
+```console
+sudo apt install python3-pip
+pip install Fibo
+```
+
+Bu aşamadan sonra **Fibo** modülü içerisinde birkaç yazım hatası bulunduğu için onları düzelttim. Ardından **python** arayüzüne geçerek **Fibo** modulünden **fab** methodunu ekliyoruz ve kullanıyoruz.
+
+```console
+alptech@ub20:~$ python3
+Python 3.8.10 (default, Sep 28 2021, 16:10:42)
+[GCC 9.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from Fibo import fab
+>>> fab(5)
+1
+1
+2
+3
+5
+>>>
+```
+
 
 
 
