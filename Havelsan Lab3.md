@@ -23,7 +23,7 @@
 
 + Tek komut ile aşağıdaki yapıda dizin nasıl oluşturulur.
 
-  ![img](C:\Users\ABRA\Desktop\image.png)
+  ![img](https://docs.liman.dev/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MfvEfSUfrXC8yAuM8F1%2F-Mis-vWT2HTM8L9VPDRr%2F-Mis6zzjhHqRlrt7L4Hc%2Fimage.png?alt=media&token=b2dfbb5a-73d8-490a-afca-75d428844b14)
 
   
 
