@@ -1,0 +1,23 @@
+{
+	"name": "limanmys/SNMP",
+	"description": "SNMP",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Alptekin",
+			"email": "alptekin_ynk@hotmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"files": [
+			"app/Helpers/Helpers.php"
+		],
+		"psr-4": {
+			"App\\": "app"
+		},
+		"classmap": [
+			"app"
+		]
+	}
+}
