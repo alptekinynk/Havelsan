@@ -298,4 +298,4 @@ alptech@ub20:/etc/systemd/system$ pwd
   mkdir deneme{1..100}
   ```
 
-  tekton trigger demo
+  tekton trig
